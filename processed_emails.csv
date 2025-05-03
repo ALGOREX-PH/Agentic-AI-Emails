@@ -1,0 +1,4 @@
+id,summary,recommended_action,draft_reply,categories,rule_applied,confidence_score
+1,Email from alice@example.com regarding Meeting Tomorrow requesting an update.,Schedule,,schedule,calendar_invitation,0.9
+2,Email from hr@company.com regarding Offer Letter with promotional content.,Ignore,,,promotional,0.9
+3,Email from newsletter@service.com regarding Weekly Newsletter requesting an update.,Ignore,,,newsletter,0.9

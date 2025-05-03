@@ -1,0 +1,4 @@
+id,sender,subject,body,timestamp
+1,alice@example.com,Meeting Tomorrow,"Hi, just checking if we are still on for tomorrow's meeting about the project update. Let me know if the time still works for you.",2025-05-01 09:00 AM
+2,hr@company.com,Offer Letter,We're pleased to inform you that we would like to offer you the position of Senior Developer. Attached is the formal offer letter with details.,2025-05-01 10:30 AM
+3,newsletter@service.com,Weekly Newsletter,Here are this week's top stories and updates from our service. Check out our newest features!,2025-05-01 11:15 AM
